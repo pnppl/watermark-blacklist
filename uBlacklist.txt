@@ -1,3 +1,9 @@
+---
+name: watermark-blacklist
+description: uBlacklist rules to remove watermarked image search results
+homepage: https://github.com/pnppl/watermark-blacklist/
+---
+
 *://*.123rf.com/*
 *://*.alamy.com/*
 *://*.alamyimages.fr/*
