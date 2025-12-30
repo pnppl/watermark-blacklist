@@ -4,49 +4,49 @@ description: uBlacklist rules to remove watermarked image search results
 homepage: https://github.com/pnppl/watermark-blacklist/
 ---
 
-*://*.123rf.com/*
-*://*.alamy.com/*
-*://*.alamyimages.fr/*
-*://*.bigstockphoto.com/*
-*://*.blueprintdigital.com/*
-*://*.cartoondealer.com/*
-*://*.colourbox.com/*
-*://*.crushpixel.com/*
-*://*.depositphotos.com/*
-*://*.dissolve.com/*
-*://*.dreamstime.com/*
-*://*.elearningchips.com/*
-*://*.esseg.eu/*
-*://*.everypixel.com/*
-*://*.fity.club/*
-*://*.focusedcollection.com/*
-*://*.freepik.com/*
-*://*.freepixel.com/*
-*://*.gettyimages.ae/*
-*://*.gettyimages.ca/*
-*://*.gettyimages.com/*
-*://*.gettyimages.com.au/*
-*://*.gettyimages.co.uk/*
-*://*.gettyimages.dk/*
-*://*.gettyimages.fi/*
-*://*.gettyimages.in/*
-*://*.gettyimages.no/*
-*://*.inspiredpencil.com/*
-*://*.istockphoto.com/*
-*://*.peopleimages.com/*
-*://*.photodune.net/*
-*://*.picxy.com/*
-*://*.pixers.us/*
-*://*.pixtastock.com/*
-*://*.plainpicture.com/*
-*://*.pngtree.com/*
-*://*.pond5.com/*
-*://*.sciencephoto.com/*
-*://*.shutterstock.com/*
-*://stock.adobe.com/*
-*://*.stockfresh.com/*
-*://*.storyblocks.com/*
-*://*.superstock.com/*
-*://*.vecteezy.com/*
-*://*.vishopper.com/*
-*://*.yayimages.com/*
+*://*.123rf.com/* @if($category="images")
+*://*.alamy.com/* @if($category="images")
+*://*.alamyimages.fr/* @if($category="images")
+*://*.bigstockphoto.com/* @if($category="images")
+*://*.blueprintdigital.com/* @if($category="images")
+*://*.cartoondealer.com/* @if($category="images")
+*://*.colourbox.com/* @if($category="images")
+*://*.crushpixel.com/* @if($category="images")
+*://*.depositphotos.com/* @if($category="images")
+*://*.dissolve.com/* @if($category="images")
+*://*.dreamstime.com/* @if($category="images")
+*://*.elearningchips.com/* @if($category="images")
+*://*.esseg.eu/* @if($category="images")
+*://*.everypixel.com/* @if($category="images")
+*://*.fity.club/* @if($category="images")
+*://*.focusedcollection.com/* @if($category="images")
+*://*.freepik.com/* @if($category="images")
+*://*.freepixel.com/* @if($category="images")
+*://*.gettyimages.ae/* @if($category="images")
+*://*.gettyimages.ca/* @if($category="images")
+*://*.gettyimages.com/* @if($category="images")
+*://*.gettyimages.com.au/* @if($category="images")
+*://*.gettyimages.co.uk/* @if($category="images")
+*://*.gettyimages.dk/* @if($category="images")
+*://*.gettyimages.fi/* @if($category="images")
+*://*.gettyimages.in/* @if($category="images")
+*://*.gettyimages.no/* @if($category="images")
+*://*.inspiredpencil.com/* @if($category="images")
+*://*.istockphoto.com/* @if($category="images")
+*://*.peopleimages.com/* @if($category="images")
+*://*.photodune.net/* @if($category="images")
+*://*.picxy.com/* @if($category="images")
+*://*.pixers.us/* @if($category="images")
+*://*.pixtastock.com/* @if($category="images")
+*://*.plainpicture.com/* @if($category="images")
+*://*.pngtree.com/* @if($category="images")
+*://*.pond5.com/* @if($category="images")
+*://*.sciencephoto.com/* @if($category="images")
+*://*.shutterstock.com/* @if($category="images")
+*://stock.adobe.com/* @if($category="images")
+*://*.stockfresh.com/* @if($category="images")
+*://*.storyblocks.com/* @if($category="images")
+*://*.superstock.com/* @if($category="images")
+*://*.vecteezy.com/* @if($category="images")
+*://*.vishopper.com/* @if($category="images")
+*://*.yayimages.com/* @if($category="images")
